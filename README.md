@@ -1,2 +1,3 @@
 # Japan-demo
-this is my git repo
+this is my first git repo
+author- chaman lal
